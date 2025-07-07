@@ -3707,11 +3707,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/choto/CascadeProjects/RecipeManagementApp/backend/Api/RecipeManagement.Api.csproj",
+      "projectUniqueName": "/Users/choto/CascadeProjects/repo/recipes-test/backend/Api/RecipeManagement.Api.csproj",
       "projectName": "RecipeManagement.Api",
-      "projectPath": "/Users/choto/CascadeProjects/RecipeManagementApp/backend/Api/RecipeManagement.Api.csproj",
+      "projectPath": "/Users/choto/CascadeProjects/repo/recipes-test/backend/Api/RecipeManagement.Api.csproj",
       "packagesPath": "/Users/choto/.nuget/packages/",
-      "outputPath": "/Users/choto/CascadeProjects/RecipeManagementApp/backend/Api/obj/",
+      "outputPath": "/Users/choto/CascadeProjects/repo/recipes-test/backend/Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/choto/.nuget/NuGet/NuGet.Config"
@@ -3726,8 +3726,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/choto/CascadeProjects/RecipeManagementApp/backend/Business/RecipeManagement.Business.csproj": {
-              "projectPath": "/Users/choto/CascadeProjects/RecipeManagementApp/backend/Business/RecipeManagement.Business.csproj"
+            "/Users/choto/CascadeProjects/repo/recipes-test/backend/Business/RecipeManagement.Business.csproj": {
+              "projectPath": "/Users/choto/CascadeProjects/repo/recipes-test/backend/Business/RecipeManagement.Business.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/choto/CascadeProjects/RecipeManagementApp/backend/Data/RecipeManagement.Data.csproj": {}
+    "/Users/choto/CascadeProjects/repo/recipes-test/backend/Data/RecipeManagement.Data.csproj": {}
   },
   "projects": {
-    "/Users/choto/CascadeProjects/RecipeManagementApp/backend/Data/RecipeManagement.Data.csproj": {
+    "/Users/choto/CascadeProjects/repo/recipes-test/backend/Data/RecipeManagement.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/choto/CascadeProjects/RecipeManagementApp/backend/Data/RecipeManagement.Data.csproj",
+        "projectUniqueName": "/Users/choto/CascadeProjects/repo/recipes-test/backend/Data/RecipeManagement.Data.csproj",
         "projectName": "RecipeManagement.Data",
-        "projectPath": "/Users/choto/CascadeProjects/RecipeManagementApp/backend/Data/RecipeManagement.Data.csproj",
+        "projectPath": "/Users/choto/CascadeProjects/repo/recipes-test/backend/Data/RecipeManagement.Data.csproj",
         "packagesPath": "/Users/choto/.nuget/packages/",
-        "outputPath": "/Users/choto/CascadeProjects/RecipeManagementApp/backend/Data/obj/",
+        "outputPath": "/Users/choto/CascadeProjects/repo/recipes-test/backend/Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/choto/.nuget/NuGet/NuGet.Config"
