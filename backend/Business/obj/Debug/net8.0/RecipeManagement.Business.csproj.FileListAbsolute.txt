@@ -1,0 +1,15 @@
+/Users/choto/CascadeProjects/RecipeManagementApp/backend/Business/bin/Debug/net8.0/RecipeManagement.Business.deps.json
+/Users/choto/CascadeProjects/RecipeManagementApp/backend/Business/bin/Debug/net8.0/RecipeManagement.Business.dll
+/Users/choto/CascadeProjects/RecipeManagementApp/backend/Business/bin/Debug/net8.0/RecipeManagement.Business.pdb
+/Users/choto/CascadeProjects/RecipeManagementApp/backend/Business/bin/Debug/net8.0/RecipeManagement.Data.dll
+/Users/choto/CascadeProjects/RecipeManagementApp/backend/Business/bin/Debug/net8.0/RecipeManagement.Data.pdb
+/Users/choto/CascadeProjects/RecipeManagementApp/backend/Business/obj/Debug/net8.0/RecipeManagement.Business.csproj.AssemblyReference.cache
+/Users/choto/CascadeProjects/RecipeManagementApp/backend/Business/obj/Debug/net8.0/RecipeManagement.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/choto/CascadeProjects/RecipeManagementApp/backend/Business/obj/Debug/net8.0/RecipeManagement.Business.AssemblyInfoInputs.cache
+/Users/choto/CascadeProjects/RecipeManagementApp/backend/Business/obj/Debug/net8.0/RecipeManagement.Business.AssemblyInfo.cs
+/Users/choto/CascadeProjects/RecipeManagementApp/backend/Business/obj/Debug/net8.0/RecipeManagement.Business.csproj.CoreCompileInputs.cache
+/Users/choto/CascadeProjects/RecipeManagementApp/backend/Business/obj/Debug/net8.0/RecipeMa.860E559D.Up2Date
+/Users/choto/CascadeProjects/RecipeManagementApp/backend/Business/obj/Debug/net8.0/RecipeManagement.Business.dll
+/Users/choto/CascadeProjects/RecipeManagementApp/backend/Business/obj/Debug/net8.0/refint/RecipeManagement.Business.dll
+/Users/choto/CascadeProjects/RecipeManagementApp/backend/Business/obj/Debug/net8.0/RecipeManagement.Business.pdb
+/Users/choto/CascadeProjects/RecipeManagementApp/backend/Business/obj/Debug/net8.0/ref/RecipeManagement.Business.dll
