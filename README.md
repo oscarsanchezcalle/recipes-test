@@ -1,5 +1,7 @@
 # RecipeManagementUi
 
+Make sure the backend url is correct in  app/services/recipe.service.ts
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.13.
 
 ## Development server
