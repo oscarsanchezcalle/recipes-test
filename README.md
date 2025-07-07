@@ -1,4 +1,6 @@
 # RecipeManagementUi
+# the front end code is recipe-management-uii.zip
+# for any reason the angular code was not uploaded correctly to the repository, I decided to upload it manually as a .zip file
 
 Make sure the backend url is correct in  app/services/recipe.service.ts
 
